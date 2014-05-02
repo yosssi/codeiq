@@ -1,0 +1,3 @@
+62 Afghanistan Antarctica Barbados Botswana Canada Chad China Denmark Ethiopia Guam Guatemala Guernsey Jordan Kiribati Latvia Libya Liechtenstein Macao Malawi Martinique Mauritania Mauritius Montenegro Mozambique Namibia Narnia Nauru Netherlands Niger Niue Oman Palau Panama Paraguay Poland Portugal Romania Rwanda Samoa Senegal Serbia Singapore Slovakia Slovenia Somalia Sudan Sweden Switzerland Tajikistan Thailand Togo Tokelau Tonga Turkey Turkmenistan Tuvalu Uganda Ukraine Uzbekistan Vanuatu Zambia Zimbabwe
+ENV: Go
+POINT: 多くの航空チケットと期間が重なってしまうチケットを省くこと
